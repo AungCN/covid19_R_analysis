@@ -1,0 +1,14 @@
+# R Packages Required (install via install.packages(readLines("requirements.txt")))
+astsa
+corrplot
+dplyr
+fpp
+fpp2
+ggplot2
+lubridate
+maps
+quantmod
+readr
+seasonal
+tidyr
+tsibble
